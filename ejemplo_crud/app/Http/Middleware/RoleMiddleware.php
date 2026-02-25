@@ -22,4 +22,12 @@ class RoleMiddleware
 
     return $next($request);
 }
+<<<<<<< Updated upstream
 }
+=======
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> e363dc4 (tu)
+>>>>>>> Stashed changes

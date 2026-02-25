@@ -2,7 +2,15 @@
 
 namespace App\Repositories\Eloquent;
 
+<<<<<<< Updated upstream
 use App\Models\ModelUser;
+=======
+<<<<<<< HEAD
+use App\Models\User;
+=======
+use App\Models\ModelUser;
+>>>>>>> e363dc4 (tu)
+>>>>>>> Stashed changes
 use App\Repositories\Interfaces\UserInterface;
 
 class UserRepository implements UserInterface
