@@ -12,6 +12,19 @@ class AuthenticateApi
         if (!auth()->guard('api')->check()) { // Verifica si el usuario no está autenticado usando el guardia 'api'
             throw new AuthenticationException('No autenticado, Inicia Sesión.');
         }
+<<<<<<< Updated upstream
         return $next($request);
     }
 }
+=======
+<<<<<<< HEAD
+
+        return $next($request);
+    }
+}
+=======
+        return $next($request);
+    }
+}
+>>>>>>> e363dc4 (tu)
+>>>>>>> Stashed changes

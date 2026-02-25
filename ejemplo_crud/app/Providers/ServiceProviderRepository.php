@@ -29,4 +29,12 @@ class ServiceProviderRepository extends ServiceProvider
     {
         //
     }
+<<<<<<< Updated upstream
 }
+=======
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> e363dc4 (tu)
+>>>>>>> Stashed changes
